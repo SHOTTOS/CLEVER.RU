@@ -1,0 +1,50 @@
+.a{
+text-align: center;
+margin-bottom: 100px;
+}
+.s{
+text-decoration: none;
+border: solid blue;
+padding: 25px;
+width: 20px;
+margin: 0 10px 10px;
+text-align: center;
+background-color: purple;
+border-radius: 30px;
+transition: 0.7s;
+
+
+
+
+
+
+}
+.d{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
+
+
+}
+.f{
+width: 215px;
+height: 300px;
+
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0.20351890756302526) 3%, rgba(255,229,0,1) 36%, rgba(255,229,0,1) 61%);
+}
+.s:hover{
+padding: 18px;
+
+}
+.j{
+text-decoration: none;
+
+
+
+}
